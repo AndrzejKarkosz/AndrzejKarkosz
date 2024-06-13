@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 ##### 👨 About me: I am a Microsoft Certified Data Analyst with 3 years of experience in Business Intelligence. I have participated in more than 30 internal and external projects. On my career path, I had the opportunity to work in an international team serving global corporations. 
 
