@@ -1,14 +1,14 @@
 # Hi there 👋
 
-### 👨 About me: I am a Microsoft Certified Data Analyst with 3 years of experience in Business Intelligence. I have participated in more than 30 internal and external projects. On my career path, I had the opportunity to work in an international team serving global corporations. 
+##### 👨 About me: I am a Microsoft Certified Data Analyst with 3 years of experience in Business Intelligence. I have participated in more than 30 internal and external projects. On my career path, I had the opportunity to work in an international team serving global corporations. 
 
-### 🔭 I currently work in the digital marketing sector (mainly SEO marketing). I specialise in implementing business intelligence solutions such as ETL processes, data flows, Power BI and Looker studio dashboards. I also have experience and knowledge in the corporate finance sector, as I worked in the controlling department of a restaurant chain and have a master's degree in finance.
+##### 🔭 I currently work in the digital marketing sector (mainly SEO marketing). I specialise in implementing business intelligence solutions such as ETL processes, data flows, Power BI and Looker studio dashboards. I also have experience and knowledge in the corporate finance sector, as I worked in the controlling department of a restaurant chain and have a master's degree in finance.
 
-### 💡 I am currently learning more about data science and the implementation of artificial intelligence because I believe that in the next 10 years the use of the artificial intelligence model will determine the competitiveness of companies in the market.
+##### 💡 I am currently learning more about data science and the implementation of artificial intelligence because I believe that in the next 10 years the use of the artificial intelligence model will determine the competitiveness of companies in the market.
 
-### 👯 I’m looking to collaborate on BI/AI implementation project on real world scenario... If You have something in mind, reach out! 
+##### 👯 I’m looking to collaborate on BI/AI implementation project on real world scenario... If You have something in mind, reach out! 
 
-### 📫 How to reach me? email: andrzej.karkosz1@gmail.com / linkedIn profile
+##### 📫 How to reach me? email: andrzej.karkosz1@gmail.com / linkedIn profile
 <!--
 **AndrzejKarkosz/AndrzejKarkosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
